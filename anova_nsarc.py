@@ -4,7 +4,7 @@ import statsmodels.formula.api as smf
 import statsmodels.stats.multicomp as multi 
 
 
-data = pandas.read_csv('/Users/utpl/Documents/DataAnalysisTools/project1_DataAnalysisTools/nesarc_pds.csv', low_memory=False)
+data = pandas.read_csv('/Users/utpl/Documents/DataAnalysisTools/nesarc_pds.csv', low_memory=False)
 
 
 #AMERICAN INDIAN OR ALASKA NATIVE Yes = 1 No = 2
